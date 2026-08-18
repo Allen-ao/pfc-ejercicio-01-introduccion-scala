@@ -1,4 +1,4 @@
-# Clase 1 — Primer contacto con Scala, Gradle y las pruebas
+# Ejercicio 1 — Primer contacto con Scala, Gradle y las pruebas
 
 Fundamentos de Programación Funcional y Concurrente
 Escuela de Ingeniería de Sistemas y Computación, Universidad del Valle
